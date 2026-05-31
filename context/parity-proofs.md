@@ -2,7 +2,7 @@
 
 ---
 
-# Prove that the sum of two even numbers is even.
+# Prove that the sum of two even numbers is even. 
 
 ## Version 1: 
 Let $a = 2m$ and $b = 2n$ be even integers, where $m, n$ are integers. 
